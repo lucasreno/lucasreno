@@ -20,6 +20,6 @@
 </p>
 <br>
 <p align="left">
-  <a href="https://www.linkedin.com/in/lucas-ren%C3%B3-50023924" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/lucas-ren%C3%B3-50023924" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-ren%C3%B3-50023924/" /></a>
 </p>  
