@@ -3,7 +3,7 @@
 <h2> Ei, Bem-vindo ao meu perfil! <img src="https://media.giphy.com/media/BXjqytvu9bKzCUHdzz/giphy.gif" width="50"></h2>
 
 <p align="left"> 
-  Me chamo Lucas Renó, nasci em uma cidadezinha no interior de São Paulo chamada Itapeva. Sou graduado em Sistemas de Informação e possuo especialização em Tecnologia Java e em Tutoria em Educação a Distância.<br>
+  Me chamo Lucas Renó, nasci em uma cidadezinha no interior de São Paulo chamada Itapeva. Sou graduado em Sistemas de Informação e possuo especialização em Tecnologia Java e  Tutoria em Educação a Distância.<br>
   Atualmente trabalho como analista de sistemas na Pinara Reflorestamento.
 </p>
 
