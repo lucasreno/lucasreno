@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/62509668/139310543-657db66d-86ab-4e93-a470-4a96c5813e75.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Dev Lucas">
+<img src="https://user-images.githubusercontent.com/62509668/139310543-657db66d-86ab-4e93-a470-4a96c5813e75.gif" width="400" align="right" alt="Dev Lucas">
 
 <h2> Ei, Bem-vindo ao meu perfil! <img src="https://media.giphy.com/media/BXjqytvu9bKzCUHdzz/giphy.gif" width="50"></h2>
 
