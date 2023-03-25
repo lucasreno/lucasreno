@@ -1,18 +1,17 @@
 <img src="https://user-images.githubusercontent.com/62509668/139310543-657db66d-86ab-4e93-a470-4a96c5813e75.gif" width="400" align="right" alt="Dev Lucas">
 
-<h2> Ei, Bem-vindo ao meu perfil! <img src="https://media.giphy.com/media/BXjqytvu9bKzCUHdzz/giphy.gif" width="50"></h2>
+<h2> Oi, eu sou o <s>Goku</s> Lucas Renó! <img src="https://media.giphy.com/media/BXjqytvu9bKzCUHdzz/giphy.gif" width="50"></h2>
 
 <p align="left"> 
-  Me chamo Lucas Renó, nasci em uma cidadezinha no interior de São Paulo chamada Itapeva. Sou graduado em Sistemas de Informação e possuo especialização em Tecnologia Java e  Tutoria em Educação a Distância.<br>
-  Atualmente trabalho como analista de sistemas na Pinara Reflorestamento.
+  Sou formado em Sistemas de Informação e possuo especializações em Tecnologia Java e Tutoria em Educação a Distância. Atualmente trabalho como Desenvolvedor na ZG Soluções, uma empresa referência no desenvolvimento de sistemas para a gestão automatizada do ciclo de recebíveis de hospitais.
 </p>
 
 <p align="left">
-  🥰 <em>"Sommelier"</em> de tecnologia, e perpetuando minha existência transmitindo conhecimento.
+   🚀 Estou sempre em busca de novos desafios e adoro aprender novas tecnologias. Sou apaixonado por programação e adoro compartilhar meu conhecimento com outras pessoas.
 </p>
 
 <p align="left">
-  💻 Atualmente gosto de construir coisas legais com <strong>Flutter.</strong>
+ 💻 Atualmente, estou trabalhando com desenvolvimento de aplicações utilizando <strong>Groovy/Grails</strong>. Além disso, tenho experiência no desenvolvimento de aplicações full-stack para web e mobile, utilizando tecnologias como Docker, Node.js, Typescript, MongoDB, Apache, Google Cloud, Swagger, Git, Gitflow e Scrum. Também já desenvolvi aplicações utilizando Ionic e Angular.
 </p>
 
 <p align="left">
