@@ -1,24 +1,34 @@
-<img src="https://user-images.githubusercontent.com/62509668/139310543-657db66d-86ab-4e93-a470-4a96c5813e75.gif" width="400" align="right" alt="Dev Lucas">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/62509668/139310543-657db66d-86ab-4e93-a470-4a96c5813e75.gif" width="200" alt="Dev Lucas">
+  <h1>Olá, eu sou Lucas Renó 👋</h1>
+  <h3>Full Stack Developer | Especialista em simplificar o complexo</h3>
+</div>
 
-<h2> Oi, eu sou o <s>Goku</s> Lucas Renó! <img src="https://media.giphy.com/media/BXjqytvu9bKzCUHdzz/giphy.gif" width="50"></h2>
+---
 
-<p align="left"> 
-  Sou formado em Sistemas de Informação e possuo especializações em Tecnologia Java e Tutoria em Educação a Distância. Atualmente trabalho como Desenvolvedor na ZG Soluções, uma empresa referência no desenvolvimento de sistemas para a gestão automatizada do ciclo de recebíveis de hospitais.
-</p>
+### Sobre mim 🚀
 
-<p align="left">
-   🚀 Estou sempre em busca de novos desafios e adoro aprender novas tecnologias. Sou apaixonado por programação e adoro compartilhar meu conhecimento com outras pessoas.
-</p>
+Sou Desenvolvedor Full Stack apaixonado por transformar desafios técnicos complexos em soluções práticas, eficazes e compreensíveis. Minha formação inclui graduação em Sistemas de Informação e especializações em Arquitetura de Software e Tecnologia Java.
 
-<p align="left">
- 💻 Atualmente, estou trabalhando com desenvolvimento de aplicações utilizando <strong>Groovy/Grails</strong>. Além disso, tenho experiência no desenvolvimento de aplicações full-stack para web e mobile, utilizando tecnologias como Docker, Node.js, Typescript, MongoDB, Apache, Google Cloud, Swagger, Git, Gitflow e Scrum. Também já desenvolvi aplicações utilizando Ionic e Angular.
-</p>
+No dia a dia, minha habilidade em comunicação clara e colaborativa facilita o entendimento entre clientes e equipes técnicas, garantindo soluções alinhadas e eficientes.
 
-<p align="left">
-  💌 Caso queira me enviar um email o endereço é <strong>lucasreno9@gmail.com</strong>
-</p>
-<br>
-<p align="left">
-  <a href="https://www.linkedin.com/in/lucas-ren%C3%B3-50023924" alt="Linkedin" target="_blank">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-ren%C3%B3-50023924/" /></a>
-</p>  
+---
+
+### Tecnologias que utilizo 💻
+
+- **Front-end:** Angular, Material Design, Tailwind CSS
+- **Back-end:** Java, Spring Boot, Node.js (Express, Sequelize)
+- **Cloud & Infra:** Google Cloud Platform (GCP), Kubernetes, Docker, Terraform, GitHub Actions
+- **Banco de Dados:** PostgreSQL, Oracle, MySQL, Redis, ElasticSearch, Chroma DB
+- **Observabilidade & Streaming:** Kafka, Grafana, Prometheus
+- **Inovação:** APIs OpenAI
+
+---
+
+### Entre em contato 💬
+
+- 📫 Email: [lucasreno9@gmail.com](mailto:lucasreno9@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/lucasreno)
+
+---
+
